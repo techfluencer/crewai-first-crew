@@ -1,4 +1,4 @@
-# 🛠️ Build Your First AI Crew — CrewAI (Episode 1)
+# 🛠️ Build Your First AI Crew — CrewAI (Lesson 1)
 
 The full code from the video: a **team of three AI agents** that takes one coding job and ships it.
 🦉 **Architect** designs → 🦫 **Engineer** writes the code → 🐈 **Reviewer** hunts the bugs.
@@ -48,4 +48,4 @@ uv run main.py
 Add a **4th agent** — a Documentation Writer that turns the final code into a README. (role · goal · backstory · a task · add to the crew · run.)
 
 ---
-*Next episode: the **Boss Agent** — hierarchical crews.*
+*Next lesson: the **Boss Agent** — hierarchical crews.*
